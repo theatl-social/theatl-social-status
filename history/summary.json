@@ -40,19 +40,19 @@
     "url": "https://about.theATL.social",
     "icon": "https://icons.duckduckgo.com/ip3/about.theatl.social.ico",
     "slug": "about-the-atl-social",
-    "status": "down",
-    "uptime": "95.90%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "95.90%",
-    "uptimeYear": "95.90%",
-    "time": 198,
-    "timeDay": 198,
-    "timeWeek": 198,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "status": "up",
+    "uptime": "90.64%",
+    "uptimeDay": "90.64%",
+    "uptimeWeek": "90.64%",
+    "uptimeMonth": "90.64%",
+    "uptimeYear": "90.64%",
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-01-22": 12
+      "2023-01-22": 28
     }
   }
 ]

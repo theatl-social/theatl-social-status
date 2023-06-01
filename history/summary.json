@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 391,
-    "timeDay": 273,
-    "timeWeek": 301,
-    "timeMonth": 270,
-    "timeYear": 391,
+    "time": 389,
+    "timeDay": 178,
+    "timeWeek": 310,
+    "timeMonth": 273,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2023-01-27": 11
     }
@@ -26,17 +26,16 @@
     "slug": "the-atl-social-public-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 641,
-    "timeDay": 7020,
-    "timeWeek": 2631,
-    "timeMonth": 1028,
+    "timeDay": 7069,
+    "timeWeek": 2660,
+    "timeMonth": 1037,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2023-05-31": 10,
       "2023-01-27": 11
     }
   },
@@ -51,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 256,
-    "timeDay": 143,
-    "timeWeek": 215,
-    "timeMonth": 196,
-    "timeYear": 256,
+    "time": 255,
+    "timeDay": 151,
+    "timeWeek": 231,
+    "timeMonth": 200,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2023-01-22": 16
     }

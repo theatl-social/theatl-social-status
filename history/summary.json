@@ -4,18 +4,19 @@
     "url": "https://theATL.social",
     "icon": "https://icons.duckduckgo.com/ip3/theatl.social.ico",
     "slug": "the-atl-social-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 375,
-    "timeDay": 194,
-    "timeWeek": 219,
-    "timeMonth": 246,
-    "timeYear": 375,
+    "time": 508,
+    "timeDay": 20354,
+    "timeWeek": 3567,
+    "timeMonth": 916,
+    "timeYear": 508,
     "dailyMinutesDown": {
+      "2023-06-16": 0,
       "2023-01-27": 11
     }
   },
@@ -31,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 626,
-    "timeDay": 515,
-    "timeWeek": 487,
-    "timeMonth": 1081,
+    "timeDay": 0,
+    "timeWeek": 460,
+    "timeMonth": 1129,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2023-01-27": 11
@@ -51,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 249,
-    "timeDay": 182,
-    "timeWeek": 188,
-    "timeMonth": 181,
+    "timeDay": 0,
+    "timeWeek": 173,
+    "timeMonth": 178,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2023-01-22": 16

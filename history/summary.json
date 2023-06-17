@@ -6,17 +6,16 @@
     "slug": "the-atl-social-main-site",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 506,
-    "timeDay": 10292,
-    "timeWeek": 3090,
-    "timeMonth": 894,
-    "timeYear": 506,
+    "time": 505,
+    "timeDay": 6977,
+    "timeWeek": 3122,
+    "timeMonth": 899,
+    "timeYear": 505,
     "dailyMinutesDown": {
-      "2023-06-16": 11,
       "2023-01-27": 11
     }
   },
@@ -32,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 626,
-    "timeDay": 0,
-    "timeWeek": 460,
-    "timeMonth": 1129,
+    "timeDay": 503,
+    "timeWeek": 472,
+    "timeMonth": 1132,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2023-01-27": 11
@@ -52,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 249,
-    "timeDay": 0,
-    "timeWeek": 173,
-    "timeMonth": 178,
+    "timeDay": 278,
+    "timeWeek": 183,
+    "timeMonth": 183,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2023-01-22": 16

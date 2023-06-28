@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/theatl.social.ico",
     "slug": "the-atl-social-main-site",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 490,
-    "timeDay": 332,
-    "timeWeek": 222,
-    "timeMonth": 898,
-    "timeYear": 490,
+    "uptimeYear": "100.00%",
+    "time": 488,
+    "timeDay": 103,
+    "timeWeek": 223,
+    "timeMonth": 890,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2023-01-27": 11
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 351,
+    "time": 608,
+    "timeDay": 283,
     "timeWeek": 337,
-    "timeMonth": 1079,
-    "timeYear": 610,
+    "timeMonth": 1075,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2023-01-27": 11
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 243,
-    "timeDay": 318,
+    "time": 242,
+    "timeDay": 55,
     "timeWeek": 108,
-    "timeMonth": 182,
-    "timeYear": 243,
+    "timeMonth": 172,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2023-01-22": 16
     }

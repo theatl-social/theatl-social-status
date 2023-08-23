@@ -1,7 +1,7 @@
 url: https://theATL.social
-status: up
-code: 200
-responseTime: 108
-lastUpdated: 2023-08-22T23:07:40.180Z
+status: down
+code: 503
+responseTime: 20143
+lastUpdated: 2023-08-23T21:35:24.561Z
 startTime: 2023-01-22T16:19:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>

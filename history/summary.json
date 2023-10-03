@@ -53,9 +53,9 @@
     "url": "https://about.theATL.social",
     "icon": "https://icons.duckduckgo.com/ip3/about.theatl.social.ico",
     "slug": "about-the-atl-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -65,6 +65,7 @@
     "timeMonth": 243,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2023-10-03": 0,
       "2023-01-22": 16
     }
   }
